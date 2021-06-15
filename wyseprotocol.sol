@@ -2,7 +2,7 @@
  *Submitted for verification at BscScan.com on 2021-06-15
 */
 
-/**Website: https://www.wyseprotocol.com
+/**Website: https://www.wyseprotocol.net
 *Facebook: https://www.facebook.com/wyseprotocol
 *Youtube: https://www.youtube.com/channel/UCheYf-a7hXoYnocjeFA4FmQ
 *Twitter: https://www.twitter.com/wyseprotocol
